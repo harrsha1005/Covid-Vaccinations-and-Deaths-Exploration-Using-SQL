@@ -1,6 +1,6 @@
 # Covid Vaccinations and Deaths Exploration Using SQL
 
-In this project, data exploration takes place with SQL queries by using Joins, CTE's, Temp Tables, Windows Functions,Aggregate Functions, Creating Views, Converting Data Types from the 2 datasets downloaded from dataset source. The dataset uses the most recent official numbers from governments and health ministries worldwide. Population estimates for per-capita metrics are based on the United Nations World Population Prospects.
+In this project, data exploration takes place with SQL queries in Microsoft SQL Server Management Studio by using Joins, CTE's, Temp Tables, Windows Functions,Aggregate Functions, Creating Views, Converting Data Types from the 2 datasets downloaded from dataset source. The dataset uses the most recent official numbers from governments and health ministries worldwide. Population estimates for per-capita metrics are based on the United Nations World Population Prospects.
 
 Link to Dataset Source : https://ourworldindata.org/covid-deaths
 
